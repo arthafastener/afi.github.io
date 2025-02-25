@@ -5,7 +5,7 @@
 .blue { color: #3CF; }
 .green { color: #6F6; }
 
-/
+#loader-wrapper{
     position: fixed;
     top: 0;
     left: 0;
